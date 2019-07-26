@@ -1,13 +1,16 @@
 {
-  "description": "云时光小程序",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "touristappid",
-  "projectname": "applet-cloud-time",
-  "miniprogramRoot": "./weapp"
+	"description": "云时光小程序",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram",
+	"appid": "touristappid",
+	"projectname": "applet-cloud-time",
+	"miniprogramRoot": "weapp/",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
 }
